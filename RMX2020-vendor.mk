@@ -23,6 +23,8 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX2020/proprietary/product/vendor_overlay/29/lib64/libdpframework.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/lib64/libdpframework.so \
     vendor/realme/RMX2020/proprietary/product/vendor_overlay/29/etc/audio_effects.xml:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/etc/audio_effects.xml \
     vendor/realme/RMX2020/proprietary/product/vendor_overlay/29/etc/diracmobile.config:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/etc/diracmobile.config \
+    vendor/realme/RMX2020/proprietary/product/vendor_overlay/29/firmware/wifi_19741.cfg:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/firmware/wifi_19741.cfg \
+    vendor/realme/RMX2020/proprietary/product/vendor_overlay/29/firmware/wifi.cfg:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/firmware/wifi.cfg \
     vendor/realme/RMX2020/proprietary/product/vendor_overlay/29/lib/libDiracAPI_SHARED.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/lib/libDiracAPI_SHARED.so \
     vendor/realme/RMX2020/proprietary/product/vendor_overlay/29/lib/soundfx/libdirac.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/lib/soundfx/libdirac.so \
 
